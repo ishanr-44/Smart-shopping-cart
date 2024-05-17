@@ -1,0 +1,18 @@
+.text-capitalize {
+    font-weight: bold;
+}
+
+.row .col-md-8.col-10.mx-auto.mb-3.my-5.py-5.border.shadow .text-center.mb-3 {
+	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-color: #FFDE59;
+}
+
+.col-md-8.col-10.mx-auto.mb-3.my-5.py-5.border.shadow #form .btn.btn-primary.btn-block {
+	background-color: #FFDE59;
+	border-color: #FFDE59;		
+}
+
+.col-md-8.col-10.mx-auto.mb-3.my-5.py-5.border.shadow #form .btn.btn-primary.btn-block :hover {
+	color: black;
+}
